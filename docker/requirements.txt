@@ -1,0 +1,7 @@
+django
+bitmex
+djangorestframework
+channels
+channels-redis
+bitmex-ws
+drf-yasg
